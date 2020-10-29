@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-tic-tac-toe"
+    }
+  },
+  "defaultProject": "angular-tic-tac-toe",
+  "cli": {
+    "analytics": "e5841bf8-9a50-4a2b-a296-96fe0cac42ca"
+  }
 }
